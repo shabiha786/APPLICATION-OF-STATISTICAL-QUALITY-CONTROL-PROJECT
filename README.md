@@ -10,9 +10,11 @@ Recurring EV battery temperature issues such as overheating, cooling system fail
 Approach Used:
 • Pareto Analysis to identify dominant causes of temperature-related issues
 • NP-Control Chart to monitor overheating incidents and evaluate process stability
+• X̄ (X-bar) Chart and R Chart to analyze variation and monitor the stability of battery temperature readings
 • Cause & Effect (Ishikawa) Diagram for structured root cause analysis
 • Cost Impact Analysis to estimate financial losses due to temperature failures
 • Developed a preventive battery temperature monitoring framework for improved thermal management.
+
 ## Analysis:
 Applied Statistical Quality Control techniques including Pareto Analysis and NP Control Chart to identify major causes of battery overheating. The analysis indicated that overheating and cooling system failure
 ## Datasets:-
