@@ -16,4 +16,6 @@ Approach Used:
 ## Analysis:
 Applied Statistical Quality Control techniques including Pareto Analysis and NP Control Chart to identify major causes of battery overheating. The analysis indicated that overheating and cooling system failure
 ## Datasets:-
-C:\Users\hp\Documents\EV project\np datasets.xlsx
+https://docs.google.com/spreadsheets/d/1w3xLsHR0WSwu5eenAUPO1DN9ZzFMq2D5/edit?usp=sharing&ouid=101892363954485176717&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1N2rb61iy6_lUVByYPok9-xxQZGoKinyZ/edit?usp=sharing&ouid=101892363954485176717&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1DM7sfINdtG5jzrYQU_g5dkYyc0yYCeXS/edit?usp=sharing&ouid=101892363954485176717&rtpof=true&sd=true
