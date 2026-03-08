@@ -1,8 +1,9 @@
 # Electric Vehicle  Battery Temperature Control Data Analysis Project
-Analyzed EV battery temperature data using Python to study overheating patterns and improve battery safety. Randomized datasets were generated to simulate real-world battery temperature behavior during charging and operation. Data cleaning and preprocessing were performed using Pandas, exploratory analysis and visualization using Matplotlib and Seaborn.
+Analyzed EV battery temperature data using Python to study overheating patterns and improve battery safety. Randomized datasets were generated to simulate real-world battery temperature behavior during charging and operation.
+
 
 ## Technologies Used:
-Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, SQL, Power BI.
+Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook.
 
 ## Problem:
 Recurring EV battery temperature issues such as overheating, cooling system failure, and sensor faults were increasing safety risks, reducing battery efficiency, and leading to higher maintenance costs.
