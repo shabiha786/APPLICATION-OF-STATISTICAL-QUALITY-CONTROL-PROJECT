@@ -22,6 +22,6 @@ https://docs.google.com/spreadsheets/d/1DM7sfINdtG5jzrYQU_g5dkYyc0yYCeXS/edit?us
 
 ## Data Structure:-
 
-![Uploading rr.drawio.png…]()
+<img width="1644" height="324" alt="image" src="https://github.com/user-attachments/assets/2b780203-337e-4570-ba72-814d877cce4a" />
 
 
