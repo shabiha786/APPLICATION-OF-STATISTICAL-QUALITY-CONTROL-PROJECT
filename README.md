@@ -24,6 +24,6 @@ https://docs.google.com/spreadsheets/d/1DM7sfINdtG5jzrYQU_g5dkYyc0yYCeXS/edit?us
 
 ## Data Structure:-
 
-![Uploading Untitled Diagram-Page-5.drawio (3).png…]()
+<img width="821" height="916" alt="Untitled Diagram-Page-5 drawio (3)" src="https://github.com/user-attachments/assets/436a08e9-4310-4945-8bdc-78eca2fc12cd" />
 
 
